@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="idade">Idade</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="atividadeFisica">Atividade Fisica</string>
+    <string name="sedentario">Sedentario</string>
+    <string name="moderado">Moderado</string>
+    <string name="intenso">Intenso</string>
+    <string name="calcular">Calcular</string>
+    <string name="resposta">Resposta</string>
+    <string name="mulher">Mulher</string>
+</resources>
